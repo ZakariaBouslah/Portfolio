@@ -1,0 +1,11 @@
+title: "Zakaria Bouslah Portfolio"
+description: "Étudiant M2 Cybersécurité | Passionné de pentest, CTF et reverse engineering"
+baseurl: ""
+url: "https://zakaria-bouslah.github.io"
+theme: minima
+
+author:
+  name: Zakaria Bouslah
+  email: zakaria.bouslah.pro@gmail.com
+  linkedin: https://www.linkedin.com/in/zakaria-bouslah-bb447825a/
+  github: https://github.com/zakaria-bouslah
